@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CarterOne-Regular.ttf",
+      "sha1": "088987baf523ac206b1d9b9e350bc72bf3949bd3"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "assets/fonts/PlaywriteFRModerne-VariableFont_wght.ttf",
+      "sha1": "50d2036073ec59409900f629087224c3b16d5299"
+    }
+  ]
+}
